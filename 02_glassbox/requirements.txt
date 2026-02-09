@@ -1,0 +1,12 @@
+#interpret
+interpret==0.2.7 
+pygam
+numpy==1.25
+pandas
+scikit-learn==1.1.2
+# greenlet==1.1.3
+# gevent==21.8.0
+gevent
+graphviz
+cython
+skope-rules
